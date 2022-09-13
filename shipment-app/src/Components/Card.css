@@ -1,0 +1,13 @@
+.card{
+    background-color: #1a83ff;
+    border-radius: 20PX;
+    padding: 20px;
+    font-size: 50px;
+    color: white;
+   
+    
+}
+
+#number{
+    font-size: 35px;
+}
